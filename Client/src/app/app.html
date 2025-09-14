@@ -1,0 +1,12 @@
+<h3>{{title}}</h3>
+
+<ul>
+
+
+
+  @for (client of clients(); track client.id) {
+  <li>
+    {{ client.name }} - Teléfono: {{ client.phone | phoneFormat }}
+  </li>
+  }
+</ul>
