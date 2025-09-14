@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wpXCheL/Lvk=",
+  "dgSpecHash": "4t+4D5MGKP0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\angel\\Desktop\\prueba_tecnica\\EvaluaConsultores\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\angel\\Desktop\\prueba_tecnica\\EvaluaConsultores\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
